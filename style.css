@@ -110,7 +110,7 @@ header .footer{
     transition: 0.4s;
 }
 header .footer p a{
-    color: var(--themeColor);
+    color: #ddad1e;
 }
 
 /* Mobile Nav Toggle */
